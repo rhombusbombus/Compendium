@@ -9,12 +9,12 @@ permalink:        pretty
 title:            The Compendium
 tagline:          'The Compendium'
 description:      'A collection of notes and quick reference sheets.'
-url:              http://hyde.getpoole.com
+url:              https://github.com/rhombusbombus
 baseurl:          https://rhombusbombus.github.io/Compendium/
 
 author:
   name:           'rhombusbombus'
-  url:            https://twitter.com/mdo
+  url:            linktr.ee/kaileos
 
 paginate:         5
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/rhombusbombus/Compendium
