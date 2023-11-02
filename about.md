@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+perma-link: "/Compendium/about"
 ---
 
 <p class="message">
