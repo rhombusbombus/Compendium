@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+url: "https://rhombusbombus.github.io/Compendium/about/"
 ---
 
 <p class="message">
