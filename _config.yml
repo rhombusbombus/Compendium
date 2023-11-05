@@ -10,7 +10,7 @@ title:            The Compendium
 tagline:          'The Compendium'
 description:      'A collection of notes and quick reference sheets.'
 url:              https://github.com/rhombusbombus
-baseurl:          https://rhombusbombus.github.io/Compendium/
+baseurl:          ""
 
 author:
   name:           'rhombusbombus'
