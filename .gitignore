@@ -1,2 +1,11 @@
+# Jekyll
+_site
 /_site
 Gemfile.lock
+**/Gemfile.lock
+.jekyll-cache/
+.jekyll-metadata
+
+# Temporary files
+tmp
+.DS_Store
